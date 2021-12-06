@@ -4,7 +4,7 @@
 - 💞️ Ser Frem Til Møte Kode Community
 - 📫 Er Tilgjengelig Hver Uke Dag 
 
-
+------------------
 
 Koder og Programmerer min Github Profil 
 
@@ -12,3 +12,5 @@ Koder og Programmerer min Github Profil
 - Webside
 - Koder
 - Oppgaver
+
+
