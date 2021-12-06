@@ -14,3 +14,13 @@ Koder og Programmerer min Github Profil
 - Oppgaver
 
 
+----------
+
+hjemmeside : selve hjemmesiden
+
+
+https://sites.google.com/view/kokob1212/
+
+main redigering av hjemmesiden : kontroll panel av hjemme siden
+
+https://sites.google.com/
